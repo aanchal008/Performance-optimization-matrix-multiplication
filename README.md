@@ -7,3 +7,4 @@ Single thread is optimization is done by making use of spatial locality of cache
 ---------------------------------------
 # Part B
 This part contain the cuda implementation of single thread program.
+---------------------------------------
